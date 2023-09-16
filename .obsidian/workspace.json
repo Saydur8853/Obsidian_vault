@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "06c96c9dd3c1dfb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e781bb8249fea11c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc813d41698d19fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React learning/React JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0d6860f863b9a4d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20290c9a1231f3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21651358109f0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d70eaf23a772b22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bc03be0a782ef79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b155fdd8dad95c20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c801ea40f78cbdc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2210080d57c13ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0220f8a60bd0f2a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React learning/React JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b83e76b6b2a3b85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React learning/React JS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b73d15f0ecdb45cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a43b24f9e1e2d50a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React learning/React JS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0d6860f863b9a4d",
+  "lastOpenFiles": [
+    "React learning/JS topics for React.md",
+    "React learning/React JS.md",
+    "React learning/Others.md",
+    "Untitled.md"
+  ]
+}
