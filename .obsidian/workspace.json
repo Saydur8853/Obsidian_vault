@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f0d6860f863b9a4d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0d6860f863b9a4d",
+  "active": "dc813d41698d19fd",
   "lastOpenFiles": [
     "React learning/JS topics for React.md",
     "React learning/React JS.md",
