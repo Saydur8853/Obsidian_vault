@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React learning/React JS.md",
+                "file": "DSA/Data Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React learning/React JS.md",
+                "file": "DSA/Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React learning/React JS.md",
+                "file": "DSA/Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React learning/React JS.md"
+                "file": "DSA/Data Structure.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "dc813d41698d19fd",
   "lastOpenFiles": [
-    "React learning/JS topics for React.md",
     "React learning/React JS.md",
+    "DSA/Data Structure.md",
+    "DSA",
+    "React learning/JS topics for React.md",
     "React learning/Others.md",
     "Untitled.md"
   ]
