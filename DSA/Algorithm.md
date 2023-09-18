@@ -5,4 +5,4 @@
 4. Divide and conquer
 5. Dynamic programming
 6. Tree -DFS, BFS
-7. Graph - Bel
+7. Graph - Bellman ford,  Dijkstra
