@@ -8,7 +8,7 @@ javascript - begienr - learn with sumit
 DOM playlist - learn with sumit 
 Modern javascript tutorials - learn with sumit  
 Think in a javascript way in bangla - learn with sumit 
-React tutorial - tutorials
+React tutorial - learn with sumit (ignore class component)
 
 Advance JS topics for [[React JS]]-
 1. ES5 vs ES6
