@@ -1,3 +1,9 @@
+virtual DOM knowledge - learn with sumit
+HTML - w3 school 
+CSS - w3 school
+css grid - learn with sumit 
+css Flecbox - learn with sumit 
+
 Advance JS topics for [[React JS]]-
 1. ES5 vs ES6
 2. Array, objects, functions
