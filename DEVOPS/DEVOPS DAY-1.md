@@ -1,6 +1,10 @@
 
 What is devops?
 - Culture that improves deliver
+	- improving delivery
+	- quality
+	- automation
+	- monitorin
 
 pen test 
 performance test 
