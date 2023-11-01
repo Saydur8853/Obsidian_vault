@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44d64e1d38a71e6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc813d41698d19fd",
+  "active": "44d64e1d38a71e6e",
   "lastOpenFiles": [
-    "DSA/Data Structure.md",
     "DEVOPS/DEVOPS DAY-1.md",
-    "DEVOPS",
+    "DSA/Data Structure.md",
     "DSA/Algorithm.md",
+    "DEVOPS",
     "React learning/React JS.md",
     "DSA",
     "React learning/JS topics for React.md",
