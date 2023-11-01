@@ -3,6 +3,8 @@ HTML - w3 school
 CSS - w3 school
 css grid - learn with sumit 
 css Flecbox - learn with sumit 
+tailwindcss(optional) - learn with sumit  
+javascript - 
 
 Advance JS topics for [[React JS]]-
 1. ES5 vs ES6
