@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Data Structure.md",
+                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Data Structure.md",
+                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Data Structure.md",
+                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Data Structure.md"
+                "file": "DEVOPS/DEVOPS DAY-1.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "dc813d41698d19fd",
   "lastOpenFiles": [
-    "DSA/Algorithm.md",
     "DSA/Data Structure.md",
+    "DEVOPS/DEVOPS DAY-1.md",
+    "DEVOPS",
+    "DSA/Algorithm.md",
     "React learning/React JS.md",
     "DSA",
     "React learning/JS topics for React.md",
