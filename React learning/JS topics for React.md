@@ -4,7 +4,11 @@ CSS - w3 school
 css grid - learn with sumit 
 css Flecbox - learn with sumit 
 tailwindcss(optional) - learn with sumit  
-javascript - 
+javascript - begienr - learn with sumit  
+DOM playlist - learn with sumit 
+Modern javascript tutorials - learn with sumit  
+Think in a javascript way in bangla - learn with sumit 
+React tutorial - tutorials
 
 Advance JS topics for [[React JS]]-
 1. ES5 vs ES6
