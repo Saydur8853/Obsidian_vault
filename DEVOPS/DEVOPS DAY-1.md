@@ -1,4 +1,4 @@
-Devops - system admin/ Builder Relise 
+Devops - system admin/ Builder Relies engineer(BRE)/ Server Admin
 What is devops?
 - Culture that improves deliver
 	- improving delivery
