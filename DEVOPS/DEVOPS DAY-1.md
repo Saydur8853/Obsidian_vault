@@ -1,11 +1,11 @@
-
+Devops - system admin/ Builder Relise 
 What is devops?
 - Culture that improves deliver
 	- improving delivery
-	- quality
-	- automation
-	- monitoring 
-	- testing
+	- ***quality*
+	- ***automation*
+	- ***monitoring 
+	- ***testing
 	- continuous monitoring
 	- continuous testing
 	
