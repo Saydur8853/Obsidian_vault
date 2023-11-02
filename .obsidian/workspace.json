@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd0c9d52d1099380",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44d64e1d38a71e6e",
+  "active": "dd0c9d52d1099380",
   "lastOpenFiles": [
     "React learning/Others.md",
     "DEVOPS/DEVOPS DAY-1.md",

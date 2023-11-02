@@ -4,7 +4,11 @@ What is devops?
 	- improving delivery
 	- quality
 	- automation
-	- monitorin
+	- monitoring 
+	- testing
+	- continuous monitoring
+	- continuous testing
+	
 
 pen test 
 performance test 
