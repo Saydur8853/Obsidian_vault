@@ -32,3 +32,6 @@ create  database > go to localhost/phpmyadmin> click new>give name>click create>
 
 edit wp-config> enter localhost DB name> Username should root> password blank> save file
 
+wp_options > edit option_value>siteurl> http://www.localhost/bbq
+
+wp_options > edit option_value>home>
