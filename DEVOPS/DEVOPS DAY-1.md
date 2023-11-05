@@ -10,8 +10,8 @@ What is devops?
 	- continuous testing
 	
 
-pen test 
-performance test 
-flooding 
-https://beetles.io/
-#### [Application PenTesting](https://beetles.io/# "More Details")
+
+# DEVOPS DAY-2
+
+
+## Software Development Lifecycle
