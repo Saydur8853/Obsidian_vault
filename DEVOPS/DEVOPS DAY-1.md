@@ -34,4 +34,6 @@ edit wp-config> enter localhost DB name> Username should root> password blank> s
 
 wp_options > edit option_value>siteurl> http://www.localhost/bbq
 
-wp_options > edit option_value>home>
+wp_options > edit option_value>home>http://www.localhost/bbq
+
+then visit website :-D
