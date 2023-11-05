@@ -22,3 +22,4 @@ Requirement analisis>planning>defining>designing>building>testing>deploy
 #### Virtual Machines
 
 # DEVOPS DAY-4
+terraform
