@@ -23,3 +23,7 @@ Requirement analisis>planning>defining>designing>building>testing>deploy
 
 # DEVOPS DAY-4
 terraform
+
+
+xampp install> active apache+mySql
+localhost:c>xampp>htdocs>createnewfolder(BBQwebsite)>
