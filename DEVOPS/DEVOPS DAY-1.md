@@ -14,4 +14,4 @@ What is devops?
 # DEVOPS DAY-2
 
 
-## Software Development Lifecycle
+## Software Development Lifecycle(SDLC)
