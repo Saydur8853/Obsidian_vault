@@ -16,3 +16,7 @@ What is devops?
 
 ## Software Development Lifecycle(SDLC)
 Requirement analisis>planning>defining>designing>building>testing>deploy
+
+# DEVOPS DAY-3
+
+#### Virtual Machines
