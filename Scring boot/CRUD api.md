@@ -32,3 +32,8 @@ define( 'DB_PASSWORD', getenv_docker('WORDPRESS_DB_PASSWORD', '123@#$Ecomilli') 
 
 /** Database hostname */
 define( 'DB_HOST', getenv_docker('WORDPRESS_DB_HOST', 'mysql') );
+docker exec -it 9e813d47161b bash
+
+e63eb46a0a64
+
+mysql -u root -p
