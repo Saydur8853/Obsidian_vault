@@ -42,3 +42,4 @@ docker cp 9e813d47161b:/backup/ecomilli_hwc_bak.sql .
 
 
 zip -r ecomilli-front-end_6_nov_23.zip ecomilli-front-end/
+ssh -i gdn-key.pem ubuntu@44.203.39.86
