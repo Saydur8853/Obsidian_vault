@@ -39,3 +39,6 @@ e63eb46a0a64
 mysql -u root -p
 mysqldump -u root -p ecomilli_hwc > ecomilli_hwc_bak.sql
 docker cp 9e813d47161b:/backup/ecomilli_hwc_bak.sql .
+
+
+zip -r ecomilli-front-end_6_nov_23.zip ecomilli-front-end/
