@@ -14,3 +14,21 @@ Dependency - **Spring Web**, Spring data JPA, MySQL Driver, Lombok
 ```
 
 ```
+`sudo apt install nano`
+// ** Database settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define( 'DB_NAME', getenv_docker('WORDPRESS_DB_NAME', 'ecomilli_hwc') );
+
+/** Database username */
+define( 'DB_USER', getenv_docker('WORDPRESS_DB_USER', 'root') );
+
+/** Database password */
+define( 'DB_PASSWORD', getenv_docker('WORDPRESS_DB_PASSWORD', '123@#$Ecomilli') );
+/**
+ * Docker image fallback values above are sourced from the official WordPress installation wizard:
+ * https://github.com/WordPress/WordPress/blob/f9cc35ebad82753e9c86de322ea5c76a9001c7e2/wp-admin/setup-config.php#L216-L230
+ * (However, using "example username" and "example password" in your database is strongly discouraged.  Please use strong, random credentials!)
+ */
+
+/** Database hostname */
+define( 'DB_HOST', getenv_docker('WORDPRESS_DB_HOST', 'mysql') );
