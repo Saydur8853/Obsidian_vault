@@ -37,3 +37,4 @@ docker exec -it 9e813d47161b bash
 e63eb46a0a64
 
 mysql -u root -p
+mysqldump -u root -p ecomilli_hwc > ecomilli_hwc_bak.sql
