@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "Scring boot/CRUD api.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "Scring boot/CRUD api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "Scring boot/CRUD api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md"
+                "file": "Scring boot/CRUD api.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "dd0c9d52d1099380",
   "lastOpenFiles": [
-    "DEVOPS/Untitled.md",
     "DEVOPS/DEVOPS DAY-1.md",
-    "Scring boot/Untitled.md",
+    "DEVOPS/Untitled.md",
+    "Scring boot/CRUD api.md",
     "Scring boot",
     "React learning/Others.md",
     "React learning/JS topics for React.md",

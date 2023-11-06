@@ -6,4 +6,9 @@ The Spring Boot CLI is a command line tool that you can use if you
 want to quickly develop a Spring application.
 
 Project - Maven
-Dependency - **Spring Web**
+Dependency - **Spring Web**, Spring data JPA, MySQL Driver, Lombok
+
+
+
+
+
