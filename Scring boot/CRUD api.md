@@ -43,3 +43,5 @@ docker cp 9e813d47161b:/backup/ecomilli_hwc_bak.sql .
 
 zip -r ecomilli-front-end_6_nov_23.zip ecomilli-front-end/
 ssh -i gdn-key.pem ubuntu@44.203.39.86
+
+[লিনাক্স সিস্টেম অ্যাডমিনিস্ট্রেশন: প্রকৌশলী মিজানুর রহমান - Linux System Administration: Prokosale Mizanur Rahman | Rokomari.com](https://www.rokomari.com/book/91800/linux-system-administration)
