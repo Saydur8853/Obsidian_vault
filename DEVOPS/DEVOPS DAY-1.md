@@ -23,7 +23,12 @@ Requirement analisis>planning>defining>designing>building>testing>deploy
 
 # DEVOPS DAY-4
 Connect aws instance to personal 
-1st make keypare for local : go to - aws Network & Security> key Pairs> Create key pair> 
+1st make keypare for local : 
+in the cmd : ssh-keygen
+cd .ssh/
+cat id_ras for Privatenky
+cat 
+go to - aws Network & Security> key Pairs> Create key pair> 
 ec2>instance>connect>ssh clint>
 ssh -i "hasan-ecom-new-key.pem" ubuntu@ec2-44-203-39-86.compute-1.amazonaws.com
 
