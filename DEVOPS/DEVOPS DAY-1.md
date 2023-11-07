@@ -29,7 +29,6 @@ cd .ssh/
 cat id_ras for Private key
 cat id_rsa.pub for public key
 ssh -i "demo1.pem" ubuntu@ec2-44-203-39-86.compute-1.amazonaws.com                                                                                                                                                   
-ssh -i demo1.pem ubuntu@ 
 go to - aws Network & Security> key Pairs> Create key pair> 
 ec2>instance>connect>ssh clint>
 ssh -i "hasan-ecom-new-key.pem" ubuntu@ec2-44-203-39-86.compute-1.amazonaws.com
