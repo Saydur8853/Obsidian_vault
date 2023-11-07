@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough/Untitled.md",
+                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough/Untitled.md",
+                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough/Untitled.md",
+                "file": "DEVOPS/DEVOPS DAY-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rough/Untitled.md"
+                "file": "DEVOPS/DEVOPS DAY-1.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "dd0c9d52d1099380",
   "lastOpenFiles": [
+    "Rough/wordpress run in local from backup fiels.md",
     "DEVOPS/DEVOPS DAY-1.md",
-    "Rough/Untitled.md",
     "Rough",
     "Scring boot/CRUD api.md",
     "DEVOPS/Untitled.md",

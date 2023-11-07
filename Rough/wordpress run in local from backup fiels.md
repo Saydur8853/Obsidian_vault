@@ -11,3 +11,5 @@ wp_options > edit option_value>home>http://www.localhost/bbq
 then http://www.localhost/bbq/wp-admin > login >settings> permalinks> custom strecture > save
 
 then visit website :-D
+
+# AWS 
