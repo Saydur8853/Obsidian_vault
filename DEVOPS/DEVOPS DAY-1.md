@@ -23,7 +23,7 @@ Requirement analisis>planning>defining>designing>building>testing>deploy
 
 # DEVOPS DAY-4
 
-3 way : by ui, aws_cli, aws cloud formation
+## 3 way : by ui, aws_cli, aws cloud formation
 Connect aws instance to personal 
 1st make keypare for local : 
 in the cmd : ssh-keygen
