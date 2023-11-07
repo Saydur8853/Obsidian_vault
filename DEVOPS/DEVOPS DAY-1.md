@@ -23,6 +23,7 @@ Requirement analisis>planning>defining>designing>building>testing>deploy
 
 # DEVOPS DAY-4
  connect aws instance to personal 
+ec2>instance>connect>ssh clint>
+ssh -i "hasan-ecom-new-key.pem" ubuntu@ec2-44-203-39-86.compute-1.amazonaws.com
 
-
-
+Copy - ubuntu@ec2-44-203-39-86.compute-1.amazonaws.com part only and to go putty 
