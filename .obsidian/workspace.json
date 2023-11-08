@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "React learning/JS topics for React.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "React learning/JS topics for React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "React learning/JS topics for React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md"
+                "file": "React learning/JS topics for React.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "dd0c9d52d1099380",
   "lastOpenFiles": [
-    "Rough/wordpress run in local from backup fiels.md",
     "DEVOPS/DEVOPS DAY-1.md",
+    "Rough/wordpress run in local from backup fiels.md",
     "Rough",
     "Scring boot/CRUD api.md",
     "DEVOPS/Untitled.md",
