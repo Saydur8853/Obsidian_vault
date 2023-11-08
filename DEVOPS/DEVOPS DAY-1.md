@@ -42,3 +42,9 @@ Copy - ubuntu@ec2-44-203-39-86.compute-1.amazonaws.com part only and to go putty
 AWS CLI 
 
 - Security credentials>Access keys>Create access key
+
+
+# DEVOPS DAY-7
+#### AWS Project using SHELL SCRIPTING
+
+make a script AWS CLI Command Reference: https://docs.aws.amazon.com/cli/latest/
