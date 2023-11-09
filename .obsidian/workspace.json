@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React learning/JS topics for React.md",
+                "file": "Scring boot/CRUD api.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React learning/JS topics for React.md",
+                "file": "Scring boot/CRUD api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React learning/JS topics for React.md",
+                "file": "Scring boot/CRUD api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React learning/JS topics for React.md"
+                "file": "Scring boot/CRUD api.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "dd0c9d52d1099380",
   "lastOpenFiles": [
+    "React learning/JS topics for React.md",
     "DEVOPS/DEVOPS DAY-1.md",
     "Rough/wordpress run in local from backup fiels.md",
     "Rough",
@@ -167,7 +168,6 @@
     "DEVOPS/Untitled.md",
     "Scring boot",
     "React learning/Others.md",
-    "React learning/JS topics for React.md",
     "DSA/Data Structure.md",
     "DSA/Algorithm.md",
     "DEVOPS",
