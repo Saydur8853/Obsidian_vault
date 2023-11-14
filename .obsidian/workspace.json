@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React learning/JS topics for React.md",
+                "file": "Web development/React learning/Others.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React learning/JS topics for React.md",
+                "file": "Web development/React learning/Others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React learning/JS topics for React.md",
+                "file": "Web development/React learning/Others.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React learning/JS topics for React.md"
+                "file": "Web development/React learning/Others.md"
               }
             }
           }
@@ -158,20 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd0c9d52d1099380",
+  "active": "4d70eaf23a772b22",
   "lastOpenFiles": [
+    "Web development/Untitled",
+    "Web development",
+    "Web development/React learning/React JS.md",
+    "Web development/React learning/JS topics for React.md",
     "Scring boot/CRUD api.md",
-    "React learning/JS topics for React.md",
     "DEVOPS/DEVOPS DAY-1.md",
     "Rough/wordpress run in local from backup fiels.md",
     "Rough",
     "DEVOPS/Untitled.md",
     "Scring boot",
-    "React learning/Others.md",
+    "Web development/React learning/Others.md",
     "DSA/Data Structure.md",
     "DSA/Algorithm.md",
     "DEVOPS",
-    "React learning/React JS.md",
     "DSA",
     "Untitled.md"
   ]
