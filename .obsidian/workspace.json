@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web development/React learning/Others.md",
+                "file": "Web development/React learning/JS topics for React.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web development/React learning/Others.md",
+                "file": "Web development/React learning/JS topics for React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web development/React learning/Others.md",
+                "file": "Web development/React learning/JS topics for React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web development/React learning/Others.md"
+                "file": "Web development/React learning/JS topics for React.md"
               }
             }
           }
@@ -158,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d70eaf23a772b22",
+  "active": "dd0c9d52d1099380",
   "lastOpenFiles": [
+    "Web development/React learning/Others.md",
     "Web development/Untitled",
     "Web development",
     "Web development/React learning/React JS.md",
@@ -170,7 +171,6 @@
     "Rough",
     "DEVOPS/Untitled.md",
     "Scring boot",
-    "Web development/React learning/Others.md",
     "DSA/Data Structure.md",
     "DSA/Algorithm.md",
     "DEVOPS",
