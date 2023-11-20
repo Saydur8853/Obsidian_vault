@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e781bb8249fea11c",
+        "id": "879a66c66f3ece5a",
         "type": "tabs",
         "children": [
           {
-            "id": "dd0c9d52d1099380",
+            "id": "32f2b08703eb6765",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Web development/React learning/JS topics for React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f70ea4129d56a11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rough/wordpress run in local from backup fiels.md",
-                "mode": "source",
-                "source": false
+                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf"
               }
             }
           }
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web development/React learning/JS topics for React.md",
+                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web development/React learning/JS topics for React.md",
+                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web development/React learning/JS topics for React.md"
+                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf"
               }
             }
           }
@@ -158,16 +144,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd0c9d52d1099380",
+  "active": "4d70eaf23a772b22",
   "lastOpenFiles": [
+    "Web development/Untitled/AWS INTERVIEW.pdf",
+    "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
+    "Web development/React learning/JS topics for React.md",
+    "Web development/React learning/React JS.md",
+    "Rough/wordpress run in local from backup fiels.md",
     "Web development/React learning/Others.md",
     "Web development/Untitled",
     "Web development",
-    "Web development/React learning/React JS.md",
-    "Web development/React learning/JS topics for React.md",
     "Scring boot/CRUD api.md",
     "DEVOPS/DEVOPS DAY-1.md",
-    "Rough/wordpress run in local from backup fiels.md",
     "Rough",
     "DEVOPS/Untitled.md",
     "Scring boot",
