@@ -1,3 +1,4 @@
 <></> opening and closing tag
 
-<b  > bold </b>  
+b tag: <b > bold </b> 
+strong tag: <strong>strong</strong>
