@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf"
+                "file": "Web development/Untitled/ KUBERNETES.pdf"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c801ea40f78cbdc2",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
+                "file": "Web development/Untitled/ KUBERNETES.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
+                "file": "Web development/Untitled/ KUBERNETES.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf"
+                "file": "Web development/Untitled/ KUBERNETES.pdf"
               }
             }
           }
@@ -147,9 +146,9 @@
   },
   "active": "f8a4bbf747180a5b",
   "lastOpenFiles": [
+    "Web development/Untitled/AWS INTERVIEW.pdf",
     "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
     "Web development/Untitled/ KUBERNETES.pdf",
-    "Web development/Untitled/AWS INTERVIEW.pdf",
     "Web development/React learning/JS topics for React.md",
     "Web development/React learning/React JS.md",
     "Rough/wordpress run in local from backup fiels.md",
