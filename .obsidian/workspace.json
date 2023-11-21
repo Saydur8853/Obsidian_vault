@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "879a66c66f3ece5a",
+        "id": "0d39322f929a2a3d",
         "type": "tabs",
         "children": [
           {
-            "id": "32f2b08703eb6765",
+            "id": "f8a4bbf747180a5b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -145,11 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d70eaf23a772b22",
+  "active": "f8a4bbf747180a5b",
   "lastOpenFiles": [
+    "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
     "Web development/Untitled/ KUBERNETES.pdf",
     "Web development/Untitled/AWS INTERVIEW.pdf",
-    "Web development/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
     "Web development/React learning/JS topics for React.md",
     "Web development/React learning/React JS.md",
     "Rough/wordpress run in local from backup fiels.md",
