@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scring boot/CRUD api.md",
+                "file": "Web development learning/module- 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scring boot/CRUD api.md",
+                "file": "Web development learning/module- 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scring boot/CRUD api.md",
+                "file": "Web development learning/module- 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scring boot/CRUD api.md"
+                "file": "Web development learning/module- 1.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d70eaf23a772b22",
+  "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
+    "Scring boot/CRUD api.md",
+    "Web development learning/module- 1.md",
     "Web development learning/React learning/React JS.md",
     "Web development learning/React learning/JS topics for React.md",
     "Web development learning/React learning/Others.md",
@@ -157,7 +159,6 @@
     "Rough/wordpress run in local from backup fiels.md",
     "Scring boot/Untitled",
     "Web development learning",
-    "Scring boot/CRUD api.md",
     "DEVOPS/DEVOPS DAY-1.md",
     "Rough",
     "DEVOPS/Untitled.md",
