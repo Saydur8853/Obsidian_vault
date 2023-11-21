@@ -11,8 +11,12 @@
             "id": "069fcf5ebc19577e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Scring boot/CRUD api.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scring boot/CRUD api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scring boot/CRUD api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scring boot/CRUD api.md"
+              }
             }
           }
         ]
@@ -140,13 +148,13 @@
   },
   "active": "4d70eaf23a772b22",
   "lastOpenFiles": [
+    "Web development learning/React learning/React JS.md",
+    "Web development learning/React learning/JS topics for React.md",
+    "Web development learning/React learning/Others.md",
     "Scring boot/Untitled/ KUBERNETES.pdf",
     "Scring boot/Untitled/AWS INTERVIEW.pdf",
     "Scring boot/Untitled/𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐍𝐨𝐭𝐞𝐬🚀🚀.pdf",
-    "Web development learning/React learning/JS topics for React.md",
-    "Web development learning/React learning/React JS.md",
     "Rough/wordpress run in local from backup fiels.md",
-    "Web development learning/React learning/Others.md",
     "Scring boot/Untitled",
     "Web development learning",
     "Scring boot/CRUD api.md",
