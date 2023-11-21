@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "Web development learning/module-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "Web development learning/module-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md",
+                "file": "Web development learning/module-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVOPS/DEVOPS DAY-1.md"
+                "file": "Web development learning/module-1.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
+    "DEVOPS/DEVOPS DAY-1.md",
     "Web development learning/module-1.md",
     "Scring boot/CRUD api.md",
     "Web development learning/React learning/React JS.md",
@@ -159,7 +160,6 @@
     "Rough/wordpress run in local from backup fiels.md",
     "Scring boot/Untitled",
     "Web development learning",
-    "DEVOPS/DEVOPS DAY-1.md",
     "Rough",
     "DEVOPS/Untitled.md",
     "Scring boot",
