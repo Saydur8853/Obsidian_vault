@@ -8,4 +8,5 @@ img tag with src attribute: <img src="image.png">
 list: <li>
 order list: <ol>
 unorder list : <ul>
-input tag : 
+input tag : <input> it's attribute is  type="" >> text type, password type, checkbox type, radio type, file type, 
+
