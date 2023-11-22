@@ -11,3 +11,6 @@ unorder list : <ul>
 input tag : <input> it's attribute is  type="" >> text type, password type, checkbox type, radio type, file type, 
 The <hr> tag **defines a thematic break in an HTML page** (e.g. a shift of topic).
 form tag: <form></form>
+
+
+#Module- 2 
