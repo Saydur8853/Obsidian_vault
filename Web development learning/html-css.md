@@ -1,3 +1,7 @@
+
+
+module-1
+
 <></> opening and closing tag
 
 b tag: <b > bold </b> 
@@ -13,4 +17,20 @@ The <hr> tag **defines a thematic break in an HTML page** (e.g. a shift of top
 form tag: <form></form>
 
 
-#Module- 2 
+
+
+module-2
+
+
+CSS
+
+"#'' id
+
+"."class 
+ 
+<style>Write css in this tag</style>
+
+css box model - margin , padding , border , width, Hight 
+
+
+# module-3
