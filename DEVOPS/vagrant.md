@@ -1,4 +1,4 @@
-
+#### VM-install Automatically by vagrant
 mkdir centos7
 
 cd centos7
