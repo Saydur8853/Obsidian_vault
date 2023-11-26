@@ -116,6 +116,7 @@ Now enable the website
 sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/example.com
 ```
 
+sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/example.com'
 Let’s verify if there is no Nginx error, then reload it to take the changes into account:
 
 ```

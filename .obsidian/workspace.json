@@ -18,14 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01895cd4b36d8e9c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -156,12 +148,12 @@
   },
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
+    "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "image-11-1024x259.webp",
     "image-10-1024x253.webp",
     "image-12.webp",
     "image-8.webp",
     "DEVOPS/vagrant.md",
-    "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "DEVOPS/DEVOPS DAY-1.md",
     "Web development learning/html-css.md",
     "Web development learning/module-2.md",
