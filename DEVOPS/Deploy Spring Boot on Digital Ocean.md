@@ -95,7 +95,7 @@ server {
     server_name saydur.gdnserver.com;
     index index.html index.htm;
     access_log /var/log/nginx/saydur.gdnserver.log;
-    error_log  /var/log/nginx/example-error.log error;
+    error_log  /var/log/nginx/saydur.gdnserver-error.log error;
 
     location / {
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
