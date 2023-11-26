@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/vagrant.md",
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/vagrant.md",
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/vagrant.md",
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVOPS/vagrant.md"
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
-    "DEVOPS/DEVOPS DAY-1.md",
     "DEVOPS/vagrant.md",
+    "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
+    "DEVOPS/DEVOPS DAY-1.md",
     "Web development learning/html-css.md",
     "Web development learning/module-2.md",
     "Scring boot/CRUD api.md",
