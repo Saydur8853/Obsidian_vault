@@ -18,3 +18,4 @@ touch filename{1.. 10}.txt   it'll make 10 empty file at once.
 cp fileName.txt dev/  copy txt file to dev directory 
 
 3000,5000,8082
+sudo ln -s /etc/nginx/sites-available/insadmin.conf /etc/nginx/sites-enabled/insadmin.conf 
