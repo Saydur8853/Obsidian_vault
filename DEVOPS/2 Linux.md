@@ -12,7 +12,7 @@
 • Shared Libraries: /lib, /usr/lib, /usr/local/lib
 
 
-read file: cat fileneme
+read file: cat filename
 touch create empty file
 touch filename{1.. 10}.txt   it'll make 10 empty file at once.
-cp fileName.txt dev/  copy txt file to dev dir 
+cp fileName.txt dev/  copy txt file to dev directory 
