@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/Untitled.md",
+                "file": "DEVOPS/2 Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/Untitled.md",
+                "file": "DEVOPS/2 Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/Untitled.md",
+                "file": "DEVOPS/2 Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVOPS/Untitled.md"
+                "file": "DEVOPS/2 Linux.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
     "DEVOPS/1 vagrant.md",
-    "DEVOPS/Untitled.md",
+    "DEVOPS/2 Linux.md",
     "DEVOPS/DEVOPS DAY-1.md",
     "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "image-11-1024x259.webp",
