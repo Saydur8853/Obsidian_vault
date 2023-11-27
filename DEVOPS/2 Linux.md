@@ -10,3 +10,6 @@
 • Server Data: /var, /srv 
 • System Information: /proc, /sys 
 • Shared Libraries: /lib, /usr/lib, /usr/local/lib
+
+
+read file: cat fileneme
