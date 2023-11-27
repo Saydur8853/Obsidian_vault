@@ -13,3 +13,6 @@
 
 
 read file: cat fileneme
+touch create empty file
+touch filename{1.. 10}.txt   it'll make 10 empty file at once.
+cp fileName.txt dev/  copy txt file to dev dir 
