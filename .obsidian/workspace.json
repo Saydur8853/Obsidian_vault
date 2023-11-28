@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ecomilli.md",
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ecomilli.md",
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ecomilli.md",
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ecomilli.md"
+                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "753bdf4d8203181a",
   "lastOpenFiles": [
-    "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "ecomilli.md",
+    "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "Web development learning/html-css.md",
     "DEVOPS/2 Linux.md",
     "DEVOPS/1 vagrant.md",
