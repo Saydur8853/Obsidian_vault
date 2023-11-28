@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
+                "file": "Web development learning/html-css.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
+                "file": "Web development learning/html-css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
+                "file": "Web development learning/html-css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVOPS/Deploy Spring Boot on Digital Ocean.md"
+                "file": "Web development learning/html-css.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
+    "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "DEVOPS/2 Linux.md",
     "DEVOPS/1 vagrant.md",
     "DEVOPS/DEVOPS DAY-1.md",
-    "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "image-11-1024x259.webp",
     "image-10-1024x253.webp",
     "image-12.webp",
