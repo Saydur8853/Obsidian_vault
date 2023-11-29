@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web development learning/html-css.md",
+                "file": "ecomilli.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web development learning/html-css.md",
+                "file": "ecomilli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web development learning/html-css.md",
+                "file": "ecomilli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web development learning/html-css.md"
+                "file": "ecomilli.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
-    "ecomilli.md",
     "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "Web development learning/html-css.md",
+    "ecomilli.md",
     "DEVOPS/2 Linux.md",
     "DEVOPS/1 vagrant.md",
     "DEVOPS/DEVOPS DAY-1.md",
