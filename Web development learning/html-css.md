@@ -34,9 +34,12 @@ css box model - margin , padding , border , width, Hight
 
 # module-3
 
-$ git marge branch-name
+$ git merge branch-name
 do git conflict resolve
-current change - keep existing branch code only
-incoming change - keep code of another branch's 
-both change 
+	1. current change - 
+			keep existing branch's code only
+	2. incoming change - 
+			keep code of another branch's only eliminate current branch code , another branch's code will take place there.
+	3. both change 
+			keep current and another merged 
 
