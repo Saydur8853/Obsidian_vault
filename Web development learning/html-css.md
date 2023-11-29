@@ -33,3 +33,10 @@ css box model - margin , padding , border , width, Hight
 
 
 # module-3
+
+$ git marge branch-name
+do git conflict resolve
+current change - keep existing branch code only
+incoming change - keep code of another branch's 
+both change 
+
