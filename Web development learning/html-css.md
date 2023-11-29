@@ -41,5 +41,6 @@ do git conflict resolve
 	2. incoming change - 
 			keep code of another branch's only eliminate current branch code , another branch's code will take place there.
 	3. both change 
-			keep current and another merged 
+			keep current and another merged branch code both. 
 
+# module-4
