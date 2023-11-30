@@ -14,8 +14,9 @@ mysql
 
 
 
-1)  ecofront.gdnserver.com - Nodejs
-2) ecocommunityadmin.gdnserver.com - |HTML|React|Angular||NodeJS|Laravel|
-3) ecocommunity.gdnserver.com -  java
-4) ecomarket.gdnserver.com - wordpress, MySQL
-5) ecomarketmadmin.gdnserver.com -  wordpress, MySQL
+1)  ecomilli-Infotech-front-end - Nodejs
+2) ecomilli-Infotech-community-admin - |HTML|React|Angular||NodeJS|Laravel|
+3) ecomilli-Infotech-community-platform -  java
+4) ecomilli-Infotech-market-platform - wordpress, MySQL
+5) ecomilli-Infotech-market-platform-admin -  wordpress, MySQL
+   
