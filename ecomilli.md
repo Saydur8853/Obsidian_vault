@@ -19,13 +19,14 @@ mysql
 3) ecomilli-Infotech-community-platform -  JAVA (spring boot)
 4) ecomilli-Infotech-market-platform - WordPress, MySQL
 5) ecomilli-Infotech-market-platform-admin -  WordPress, MySQL
-6) ecomilli-Infotech-inspiration-API - Nest, MySQL
-7) ecomilli-Infotech-inspiration-admin - React + TypeScript + Vite
+6) ecomilli-Infotech-inspiration-API - Nest: "10.0.0", MySQL
+7) ecomilli-Infotech-inspiration-admin - React: "18.2.0"+ TypeScript + Vite
 
 
-1) ecofront.gdnserver.com => https://github.com/Ecomilli2022/ecomilli-Infotech-front-end.git
-2) ecocommunityadmin.gdnserver.com => https://github.com/Ecomilli2022/ecomilli-Infotech-community-admin.git
-3) ecocommunity.gdnserver.com => https://github.com/Ecomilli2022/ecomilli-Infotech-community-platform.git
-4) ecomarket.gdnserver.com => https://github.com/Ecomilli2022/ecomilli-Infotech-market-platform.git
-5) ecomarketmadmin.gdnserver.com => https://github.com/Ecomilli2022/ecomilli-Infotech-market-platform-admin.git
-6) ecomilli-Infotech-inspiration-admin https://github.com/Ecomilli2022/ecomilli-Infotech-inspiration-admin.git
+1)  ecomilli-Infotech-front-end => https://github.com/Ecomilli2022/ecomilli-Infotech-front-end.git
+2) ecomilli-Infotech-community-admin => https://github.com/Ecomilli2022/ecomilli-Infotech-community-admin.git
+3)  ecomilli-Infotech-community-platform => https://github.com/Ecomilli2022/ecomilli-Infotech-community-platform.git
+4)  ecomilli-Infotech-market-platform => https://github.com/Ecomilli2022/ecomilli-Infotech-market-platform.git
+5 )ecomilli-Infotech-market-platform-admin => https://github.com/Ecomilli2022/ecomilli-Infotech-market-platform-admin.git
+6) ecomilli-Infotech-inspiration-API => https://github.com/Ecomilli2022/ecomilli-Infotech-inspiration-API-.git
+7) ecomilli-Infotech-inspiration-admin =>  https://github.com/Ecomilli2022/ecomilli-Infotech-inspiration-admin.git
