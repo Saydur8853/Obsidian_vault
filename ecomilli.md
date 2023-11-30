@@ -19,5 +19,5 @@ mysql
 3) ecomilli-Infotech-community-platform -  java
 4) ecomilli-Infotech-market-platform - wordpress, MySQL
 5) ecomilli-Infotech-market-platform-admin -  wordpress, MySQL
-6) ecomilli-Infotech-inspiration-API - Nest
+6) ecomilli-Infotech-inspiration-API - Nest, MySQL
 7) ecomilli-Infotech-inspiration-admin - React + TypeScript + Vite
