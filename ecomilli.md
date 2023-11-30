@@ -16,6 +16,6 @@ mysql
 
 1)  ecofront.gdnserver.com - Nodejs
 2) ecocommunityadmin.gdnserver.com - |HTML|React|Angular||NodeJS|Laravel|
-3) ecocommunity.gdnserver.com
-4) ecomarket.gdnserver.com
-5) ecomarketmadmin.gdnserver.com
+3) ecocommunity.gdnserver.com -  java
+4) ecomarket.gdnserver.com - wordpress, MySQL
+5) ecomarketmadmin.gdnserver.com -  wordpress, MySQL
