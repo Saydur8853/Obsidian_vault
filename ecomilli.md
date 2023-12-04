@@ -103,4 +103,4 @@ VALUES
       ]
     }', true, true, 1, 'https://images.template.net/wp-content/uploads/2016/03/30110444/Decorative-Welcome-Sample-Banner-Template.jpg', 'active', '2023-12-04 12:00:00', '2023-12-04 12:30:00');
 
-
+banner= 4ad6aea4-222b-4cab-852f-981e6f66aceb
