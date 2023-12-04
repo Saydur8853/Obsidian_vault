@@ -59,10 +59,21 @@ INSERT INTO `home_page_customizations` (`id`, `title`, `sub_title`, `section_nam
 
 
 ```
-{
-      "url": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "powers": ["Radiation resistance", "Turning tiny", "Radiation blast"]
+
+   [ {
+      "image_url": "img: https://images.template.jpg",
+      "cta_url": "google.com",
+      "banner_serial": 1
     },
+    {
+      "image_url": "img: https://images.template.jpg",
+      "cta_url": "google.com",
+      "banner_serial": 2
+    },
+    {
+      "image_url": "img: https://images.template.jpg",
+      "cta_url": "google.com",
+      "banner_serial": 3
+    },
+]
 ```
