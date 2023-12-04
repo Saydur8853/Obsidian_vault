@@ -82,7 +82,7 @@ INSERT INTO `home_page_customizations` (`id`, `title`, `sub_title`, `section_nam
 INSERT INTO public.homepage_components(
     title, type_id, content, is_web, is_mobile, serial, preview_image, status, created_at, updated_at)
 VALUES 
-    ('Home Slider type-slider', 'a58b4908-e2ba-4ebe-8569-42dd4d895e53'
+    ('Home Slider type-slider', '4ad6aea4-222b-4cab-852f-981e6f66aceb'
 , '{
       "banners": [
         {
