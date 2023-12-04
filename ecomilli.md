@@ -31,3 +31,8 @@ ECOMILLI SOURCE CODE :
 6)  ecomilli-Infotech-inspiration-API => https://github.com/Ecomilli2022/ecomilli-Infotech-inspiration-API-.git
 7) ecomilli-Infotech-inspiration-admin =>  https://github.com/Ecomilli2022/ecomilli-Infotech-inspiration-admin.git
 
+IP: 143.198.79.213
+u: root
+p: aMir@2023CiCD
+
+digital ocen Droplet

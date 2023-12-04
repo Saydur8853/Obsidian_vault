@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/Security of server.md",
+                "file": "ecomilli.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVOPS/Security of server.md",
+                "file": "ecomilli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVOPS/Security of server.md",
+                "file": "ecomilli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVOPS/Security of server.md"
+                "file": "ecomilli.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
-    "image-12.webp",
     "DEVOPS/Security of server.md",
+    "image-12.webp",
     "image-10-1024x253.webp",
     "image-11-1024x259.webp",
     "ecomilli.md",
