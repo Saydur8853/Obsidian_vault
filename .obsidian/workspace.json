@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Web development learning/html-css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61963a21f0cde944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ecomilli.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,18 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069fcf5ebc19577e",
+  "active": "61963a21f0cde944",
   "lastOpenFiles": [
+    "Web development learning/html-css.md",
+    "ecomilli.md",
     "DEVOPS/Security of server.md",
     "image-12.webp",
     "image-10-1024x253.webp",
     "image-11-1024x259.webp",
-    "ecomilli.md",
     "backend-openapi 1.yaml",
     "backend-openapi.yaml",
     "Untitled.md",
     "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
-    "Web development learning/html-css.md",
     "DEVOPS/2 Linux.md",
     "DEVOPS/1 vagrant.md",
     "DEVOPS/DEVOPS DAY-1.md",
