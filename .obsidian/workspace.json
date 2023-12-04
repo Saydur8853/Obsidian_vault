@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ecomilli.md",
+                "file": "DEVOPS/Security of server.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ecomilli.md",
+                "file": "DEVOPS/Security of server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ecomilli.md",
+                "file": "DEVOPS/Security of server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ecomilli.md"
+                "file": "DEVOPS/Security of server.md"
               }
             }
           }
@@ -148,18 +148,19 @@
   },
   "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
+    "image-12.webp",
+    "DEVOPS/Security of server.md",
+    "image-10-1024x253.webp",
+    "image-11-1024x259.webp",
+    "ecomilli.md",
     "backend-openapi 1.yaml",
     "backend-openapi.yaml",
     "Untitled.md",
-    "ecomilli.md",
     "DEVOPS/Deploy Spring Boot on Digital Ocean.md",
     "Web development learning/html-css.md",
     "DEVOPS/2 Linux.md",
     "DEVOPS/1 vagrant.md",
     "DEVOPS/DEVOPS DAY-1.md",
-    "image-11-1024x259.webp",
-    "image-10-1024x253.webp",
-    "image-12.webp",
     "image-8.webp",
     "Web development learning/module-2.md",
     "Scring boot/CRUD api.md",
@@ -176,7 +177,6 @@
     "Scring boot",
     "DSA/Data Structure.md",
     "DSA/Algorithm.md",
-    "DEVOPS",
-    "DSA"
+    "DEVOPS"
   ]
 }
