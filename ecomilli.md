@@ -77,3 +77,30 @@ INSERT INTO `home_page_customizations` (`id`, `title`, `sub_title`, `section_nam
     },
 ]
 ```
+
+
+INSERT INTO public.homepage_components(
+    title, type_id, content, is_web, is_mobile, serial, preview_image, status, created_at, updated_at)
+VALUES 
+    ('Home Slider type-slider', 'a58b4908-e2ba-4ebe-8569-42dd4d895e53'
+, '{
+      "banners": [
+        {
+          "image_url": "https://images.template.jpg",
+          "cta_url": "google.com",
+          "banner_serial": 1
+        },
+        {
+          "image_url": "https://images.template.jpg",
+          "cta_url": "google.com",
+          "banner_serial": 2
+        },
+        {
+          "image_url": "https://images.template.jpg",
+          "cta_url": "google.com",
+          "banner_serial": 3
+        }
+      ]
+    }', true, true, 1, 'https://images.template.net/wp-content/uploads/2016/03/30110444/Decorative-Welcome-Sample-Banner-Template.jpg', 'active', '2023-12-04 12:00:00', '2023-12-04 12:30:00');
+
+
