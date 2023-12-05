@@ -104,3 +104,15 @@ VALUES
     }', true, true, 1, 'https://images.template.net/wp-content/uploads/2016/03/30110444/Decorative-Welcome-Sample-Banner-Template.jpg', 'active', '2023-12-04 12:00:00', '2023-12-04 12:30:00');
 
 banner= "9b274e29-ad70-4c4f-af2f-8eb1d860039e"
+
+```
+"27a51389-7d05-4ce2-a75e-babf416e4801"	"Prescription Feature Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
+"4926fbc6-4a4d-434c-aa9b-f57172df62f0"	"Dual Poster Showcase Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
+"4ad6aea4-222b-4cab-852f-981e6f66aceb"	"Hero slider"	"active"	"2023-12-04 09:58:36.202066"	"2023-12-04 09:58:36.202066"
+"5d601f23-cd00-49ea-bfd5-533b823e34e5"	"Health Concern Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
+"749b5d96-506e-4098-8670-f8cc9566e13f"	"Tagbase Showcase Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
+"9b274e29-ad70-4c4f-af2f-8eb1d860039e"	"Multi Banner Home"	"active"	"2023-12-04 10:35:56.180034"	"2023-12-04 10:35:56.180034"
+"9bfc5ffe-f2d3-4e10-92ff-c234a95b0858"	"Single Banner Display Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
+"a6bea65f-41b9-496f-813d-04f7885cb388"	"Service Highlights Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
+"c3b76aaa-8003-45dc-8d38-b112761278a2"	"Health Blog Feature Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
+```
