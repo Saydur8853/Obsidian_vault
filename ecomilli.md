@@ -114,7 +114,6 @@ banner= "9b274e29-ad70-4c4f-af2f-8eb1d860039e"
 
 "749b5d96-506e-4098-8670-f8cc9566e13f"	"Tagbase Showcase Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 
-"9b274e29-ad70-4c4f-af2f-8eb1d860039e"	"Multi Banner Home"	"active"	"2023-12-04 10:35:56.180034"	"2023-12-04 10:35:56.180034"
 
 "9bfc5ffe-f2d3-4e10-92ff-c234a95b0858"	"Single Banner Display Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 
