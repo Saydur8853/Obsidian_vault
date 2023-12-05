@@ -117,7 +117,6 @@ banner= "9b274e29-ad70-4c4f-af2f-8eb1d860039e"
 
 "9bfc5ffe-f2d3-4e10-92ff-c234a95b0858"	"Single Banner Display Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 
-"a6bea65f-41b9-496f-813d-04f7885cb388"	"Service Highlights Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 
 "c3b76aaa-8003-45dc-8d38-b112761278a2"	"Health Blog Feature Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 ```
