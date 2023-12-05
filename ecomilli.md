@@ -106,13 +106,10 @@ VALUES
 banner= "9b274e29-ad70-4c4f-af2f-8eb1d860039e"
 
 ```
-"27a51389-7d05-4ce2-a75e-babf416e4801"	"Prescription Feature Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 
 "4926fbc6-4a4d-434c-aa9b-f57172df62f0"	"Dual Poster Showcase Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 
 "5d601f23-cd00-49ea-bfd5-533b823e34e5"	"Health Concern Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
-
-"749b5d96-506e-4098-8670-f8cc9566e13f"	"Tagbase Showcase Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
 
 
 "9bfc5ffe-f2d3-4e10-92ff-c234a95b0858"	"Single Banner Display Home"	"active"	"2023-12-04 11:55:24.62777"	"2023-12-04 11:55:24.62777"
