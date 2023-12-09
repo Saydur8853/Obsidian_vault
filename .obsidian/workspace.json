@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "61963a21f0cde944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ecomilli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ecomilli.md",
+                "file": "Web development learning/html-css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ecomilli.md",
+                "file": "Web development learning/html-css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ecomilli.md"
+                "file": "Web development learning/html-css.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61963a21f0cde944",
+  "active": "069fcf5ebc19577e",
   "lastOpenFiles": [
-    "Web development learning/html-css.md",
     "ecomilli.md",
+    "Web development learning/html-css.md",
     "DEVOPS/Security of server.md",
     "image-12.webp",
     "image-10-1024x253.webp",
