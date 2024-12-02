@@ -7,6 +7,7 @@ Here’s how I can help elevate your project:
 - 🎨 **Front-End Innovation**: Enhancing user experiences with aesthetically pleasing and functional Django templates.
 - 🗄️ **Database Management**: Mastering schema design and query optimization for fast data processing.
 - 🔒 **Security Enthusiast**: Implementing best practices for robust application security.
+- ☁️ **Cloud Deployment**: Skilled in deploying and managing applications in cloud-based environments, leveraging platforms like AWS, Azure, and DigitalOcean to ensure scalability, reliability, and uptime.
 
 Additional Expertise:
 
