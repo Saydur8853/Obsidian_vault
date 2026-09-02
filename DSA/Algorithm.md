@@ -1,5 +1,5 @@
 
-1. Search - Linear search, Binary search
+1. Search - Linear search, Binary search 
 2.  Sort - Bubble sort, Selection sort, Insertion sort, Merge sort, Quick sort
 3. Time complexity, Space complexity
 4. Divide and conquer
