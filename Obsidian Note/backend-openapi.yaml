@@ -1,0 +1,3003 @@
+openapi: "3.0.3"
+info:
+  title: "backend API"
+  description: "backend API"
+  version: "1.0.0"
+servers:
+  - url: "https://backend"
+paths:
+  /api/homepage-component/update/{id}:
+    put:
+      summary: "PUT api/homepage-component/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/top-nav-setting/update/{id}:
+    put:
+      summary: "PUT api/top-nav-setting/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/cart/update/{id}:
+    put:
+      summary: "PUT api/cart/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/cart-item/update/{id}:
+    put:
+      summary: "PUT api/cart-item/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-unit/update/{id}:
+    put:
+      summary: "PUT api/product-unit/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/area/update/{id}:
+    put:
+      summary: "PUT api/area/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/category/update/{id}:
+    put:
+      summary: "PUT api/category/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product/update/{id}:
+    put:
+      summary: "PUT api/product/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/care-giver/update/{id}:
+    put:
+      summary: "PUT api/care-giver/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/homepage-component-type/update/{id}:
+    put:
+      summary: "PUT api/homepage-component-type/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/prescription/update/{id}:
+    put:
+      summary: "PUT api/prescription/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/wishlist/update/{id}:
+    put:
+      summary: "PUT api/wishlist/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/ad/update/{id}:
+    put:
+      summary: "PUT api/ad/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/division/update/{id}:
+    put:
+      summary: "PUT api/division/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/tag/update/{id}:
+    put:
+      summary: "PUT api/tag/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/manufacturer/update/{id}:
+    put:
+      summary: "PUT api/manufacturer/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/faq/update/{id}:
+    put:
+      summary: "PUT api/faq/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/ads-page/update/{id}:
+    put:
+      summary: "PUT api/ads-page/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/ads-position/update/{id}:
+    put:
+      summary: "PUT api/ads-position/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-image/update/{id}:
+    put:
+      summary: "PUT api/product-image/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-serials/update/{id}:
+    put:
+      summary: "PUT api/product-serials/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/address/update/{id}:
+    put:
+      summary: "PUT api/address/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/medicine-generic/update/{id}:
+    put:
+      summary: "PUT api/medicine-generic/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/injection-saline/update/{id}:
+    put:
+      summary: "PUT api/injection-saline/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/productTagLink/update/{id}:
+    put:
+      summary: "PUT api/productTagLink/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/district/update/{id}:
+    put:
+      summary: "PUT api/district/update/{id}"
+      operationId: "updateEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/homepage-component/create:
+    post:
+      summary: "POST api/homepage-component/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/top-nav-setting/create:
+    post:
+      summary: "POST api/top-nav-setting/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/cart/create:
+    post:
+      summary: "POST api/cart/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/cart-item/create:
+    post:
+      summary: "POST api/cart-item/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-unit/create:
+    post:
+      summary: "POST api/product-unit/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/area/create:
+    post:
+      summary: "POST api/area/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/category/create:
+    post:
+      summary: "POST api/category/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/product/create:
+    post:
+      summary: "POST api/product/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/care-giver/create:
+    post:
+      summary: "POST api/care-giver/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/homepage-component-type/create:
+    post:
+      summary: "POST api/homepage-component-type/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/prescription/create:
+    post:
+      summary: "POST api/prescription/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/wishlist/create:
+    post:
+      summary: "POST api/wishlist/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/ad/create:
+    post:
+      summary: "POST api/ad/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/division/create:
+    post:
+      summary: "POST api/division/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/tag/create:
+    post:
+      summary: "POST api/tag/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/manufacturer/create:
+    post:
+      summary: "POST api/manufacturer/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/faq/create:
+    post:
+      summary: "POST api/faq/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/ads-page/create:
+    post:
+      summary: "POST api/ads-page/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/ads-position/create:
+    post:
+      summary: "POST api/ads-position/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-image/create:
+    post:
+      summary: "POST api/product-image/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-serials/create:
+    post:
+      summary: "POST api/product-serials/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/address/create:
+    post:
+      summary: "POST api/address/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/medicine-generic/create:
+    post:
+      summary: "POST api/medicine-generic/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/injection-saline/create:
+    post:
+      summary: "POST api/injection-saline/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/productTagLink/create:
+    post:
+      summary: "POST api/productTagLink/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/district/create:
+    post:
+      summary: "POST api/district/create"
+      operationId: "saveEntity"
+      responses:
+        "200":
+          description: "OK"
+  /api/homepage-component/delete/{id}:
+    delete:
+      summary: "DELETE api/homepage-component/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/top-nav-setting/delete/{id}:
+    delete:
+      summary: "DELETE api/top-nav-setting/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/cart/delete/{id}:
+    delete:
+      summary: "DELETE api/cart/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/cart-item/delete/{id}:
+    delete:
+      summary: "DELETE api/cart-item/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/product-unit/delete/{id}:
+    delete:
+      summary: "DELETE api/product-unit/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/area/delete/{id}:
+    delete:
+      summary: "DELETE api/area/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/category/delete/{id}:
+    delete:
+      summary: "DELETE api/category/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/product/delete/{id}:
+    delete:
+      summary: "DELETE api/product/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/care-giver/delete/{id}:
+    delete:
+      summary: "DELETE api/care-giver/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/homepage-component-type/delete/{id}:
+    delete:
+      summary: "DELETE api/homepage-component-type/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/prescription/delete/{id}:
+    delete:
+      summary: "DELETE api/prescription/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/wishlist/delete/{id}:
+    delete:
+      summary: "DELETE api/wishlist/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/ad/delete/{id}:
+    delete:
+      summary: "DELETE api/ad/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/division/delete/{id}:
+    delete:
+      summary: "DELETE api/division/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/tag/delete/{id}:
+    delete:
+      summary: "DELETE api/tag/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/manufacturer/delete/{id}:
+    delete:
+      summary: "DELETE api/manufacturer/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/faq/delete/{id}:
+    delete:
+      summary: "DELETE api/faq/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/ads-page/delete/{id}:
+    delete:
+      summary: "DELETE api/ads-page/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/ads-position/delete/{id}:
+    delete:
+      summary: "DELETE api/ads-position/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/product-image/delete/{id}:
+    delete:
+      summary: "DELETE api/product-image/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/product-serials/delete/{id}:
+    delete:
+      summary: "DELETE api/product-serials/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/address/delete/{id}:
+    delete:
+      summary: "DELETE api/address/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/medicine-generic/delete/{id}:
+    delete:
+      summary: "DELETE api/medicine-generic/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/injection-saline/delete/{id}:
+    delete:
+      summary: "DELETE api/injection-saline/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/productTagLink/delete/{id}:
+    delete:
+      summary: "DELETE api/productTagLink/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/district/delete/{id}:
+    delete:
+      summary: "DELETE api/district/delete/{id}"
+      operationId: "deleteEntity"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Void"
+  /api/homepage-component/list:
+    get:
+      summary: "GET api/homepage-component/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/top-nav-setting/list:
+    get:
+      summary: "GET api/top-nav-setting/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/cart/list:
+    get:
+      summary: "GET api/cart/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/cart-item/list:
+    get:
+      summary: "GET api/cart-item/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/product-unit/list:
+    get:
+      summary: "GET api/product-unit/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/area/list:
+    get:
+      summary: "GET api/area/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/category/list:
+    get:
+      summary: "GET api/category/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/product/list:
+    get:
+      summary: "GET api/product/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/care-giver/list:
+    get:
+      summary: "GET api/care-giver/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/homepage-component-type/list:
+    get:
+      summary: "GET api/homepage-component-type/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/prescription/list:
+    get:
+      summary: "GET api/prescription/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/wishlist/list:
+    get:
+      summary: "GET api/wishlist/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/ad/list:
+    get:
+      summary: "GET api/ad/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/division/list:
+    get:
+      summary: "GET api/division/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/tag/list:
+    get:
+      summary: "GET api/tag/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/manufacturer/list:
+    get:
+      summary: "GET api/manufacturer/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/faq/list:
+    get:
+      summary: "GET api/faq/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/ads-page/list:
+    get:
+      summary: "GET api/ads-page/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/ads-position/list:
+    get:
+      summary: "GET api/ads-position/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/product-image/list:
+    get:
+      summary: "GET api/product-image/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/product-serials/list:
+    get:
+      summary: "GET api/product-serials/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/address/list:
+    get:
+      summary: "GET api/address/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/medicine-generic/list:
+    get:
+      summary: "GET api/medicine-generic/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/injection-saline/list:
+    get:
+      summary: "GET api/injection-saline/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/productTagLink/list:
+    get:
+      summary: "GET api/productTagLink/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/district/list:
+    get:
+      summary: "GET api/district/list"
+      operationId: "getAllEntities"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+  /api/homepage-component/{id}:
+    get:
+      summary: "GET api/homepage-component/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/top-nav-setting/{id}:
+    get:
+      summary: "GET api/top-nav-setting/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/cart/{id}:
+    get:
+      summary: "GET api/cart/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/cart-item/{id}:
+    get:
+      summary: "GET api/cart-item/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-unit/{id}:
+    get:
+      summary: "GET api/product-unit/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/area/{id}:
+    get:
+      summary: "GET api/area/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/category/{id}:
+    get:
+      summary: "GET api/category/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product/{id}:
+    get:
+      summary: "GET api/product/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/care-giver/{id}:
+    get:
+      summary: "GET api/care-giver/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/homepage-component-type/{id}:
+    get:
+      summary: "GET api/homepage-component-type/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/prescription/{id}:
+    get:
+      summary: "GET api/prescription/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/wishlist/{id}:
+    get:
+      summary: "GET api/wishlist/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/ad/{id}:
+    get:
+      summary: "GET api/ad/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/division/{id}:
+    get:
+      summary: "GET api/division/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/tag/{id}:
+    get:
+      summary: "GET api/tag/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/manufacturer/{id}:
+    get:
+      summary: "GET api/manufacturer/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/faq/{id}:
+    get:
+      summary: "GET api/faq/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/ads-page/{id}:
+    get:
+      summary: "GET api/ads-page/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/ads-position/{id}:
+    get:
+      summary: "GET api/ads-position/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-image/{id}:
+    get:
+      summary: "GET api/product-image/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/product-serials/{id}:
+    get:
+      summary: "GET api/product-serials/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/address/{id}:
+    get:
+      summary: "GET api/address/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/medicine-generic/{id}:
+    get:
+      summary: "GET api/medicine-generic/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/injection-saline/{id}:
+    get:
+      summary: "GET api/injection-saline/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/productTagLink/{id}:
+    get:
+      summary: "GET api/productTagLink/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/district/{id}:
+    get:
+      summary: "GET api/district/{id}"
+      operationId: "getEntityById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+  /api/mainModule/update:
+    put:
+      summary: "PUT api/mainModule/update"
+      operationId: "update"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/MainModuleDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/MainModule"
+  /api/mainModule/create:
+    post:
+      summary: "POST api/mainModule/create"
+      operationId: "create"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/MainModuleDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/MainModule"
+  /api/mainModule/delete/{id}:
+    delete:
+      summary: "DELETE api/mainModule/delete/{id}"
+      operationId: "delete"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "boolean"
+  /api/mainModule/find/{id}:
+    get:
+      summary: "GET api/mainModule/find/{id}"
+      operationId: "get"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/MainModule"
+  /api/mainModule/all:
+    get:
+      summary: "GET api/mainModule/all"
+      operationId: "getAll"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/MainModule"
+  /api/admin-permission/create:
+    post:
+      summary: "POST api/admin-permission/create"
+      operationId: "create"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/AdminPermissionDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/role-permission/update:
+    put:
+      summary: "PUT api/role-permission/update"
+      operationId: "update"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/RolePermissionDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/role-permission/create:
+    post:
+      summary: "POST api/role-permission/create"
+      operationId: "create"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/RolePermissionDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/admin/create:
+    post:
+      summary: "POST api/admin/create"
+      operationId: "create"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/AdminDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/AdminDTO"
+  /api/admin/login:
+    post:
+      summary: "POST api/admin/login"
+      operationId: "login"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/LoginDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/admin/profile/{id}:
+    get:
+      summary: "GET api/admin/profile/{id}"
+      operationId: "getAdmin"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Admin"
+  /api/admin/{id}/setRole/{roleId}:
+    get:
+      summary: "GET api/admin/{id}/setRole/{roleId}"
+      operationId: "setRole"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+        - name: "roleId"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/AdminDTO"
+  /api/admin/forgetPassword/{mobile}:
+    get:
+      summary: "GET api/admin/forgetPassword/{mobile}"
+      operationId: "forgetPassword"
+      parameters:
+        - name: "mobile"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/admin/{id}/changePassword/{password}:
+    get:
+      summary: "GET api/admin/{id}/changePassword/{password}"
+      operationId: "changePassword"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+        - name: "password"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/customer/profile/{id}:
+    put:
+      summary: "PUT api/customer/profile/{id}"
+      operationId: "updateProfile"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CustomerDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Customer"
+    delete:
+      summary: "DELETE api/customer/profile/{id}"
+      operationId: "deleteProfile"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    get:
+      summary: "GET api/customer/profile/{id}"
+      operationId: "getProfile"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Customer"
+  /api/customer/register:
+    post:
+      summary: "POST api/customer/register"
+      operationId: "register"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CustomerDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/customer/login:
+    post:
+      summary: "POST api/customer/login"
+      operationId: "login"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CustomerLoginDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/customer/list:
+    get:
+      summary: "GET api/customer/list"
+      operationId: "getCustomerList"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Customer"
+  /api/customer/profile/phone/{mobile}:
+    get:
+      summary: "GET api/customer/profile/phone/{mobile}"
+      operationId: "getCustomerByPhoneNumber"
+      parameters:
+        - name: "mobile"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Customer"
+  /api/customer/otp/{mobile}:
+    get:
+      summary: "GET api/customer/otp/{mobile}"
+      operationId: "generateOtp"
+      parameters:
+        - name: "mobile"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/customer/verify/{mobile}/{otp}:
+    get:
+      summary: "GET api/customer/verify/{mobile}/{otp}"
+      operationId: "verifyOtp"
+      parameters:
+        - name: "mobile"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+        - name: "otp"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/customer/referral/{id}:
+    get:
+      summary: "GET api/customer/referral/{id}"
+      operationId: "generateRefreshCode"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/role/update:
+    put:
+      summary: "PUT api/role/update"
+      operationId: "update"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/RoleDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/role/create:
+    post:
+      summary: "POST api/role/create"
+      operationId: "create"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/RoleDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/RoleDTO"
+  /api/role/delete/{id}:
+    post:
+      summary: "POST api/role/delete/{id}"
+      operationId: "delete"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/role/find/{id}:
+    get:
+      summary: "GET api/role/find/{id}"
+      operationId: "find"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Role"
+  /api/role/findAll:
+    get:
+      summary: "GET api/role/findAll"
+      operationId: "findAll"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Role"
+  /api/permissions/create:
+    post:
+      summary: "POST api/permissions/create"
+      operationId: "create"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/PermissionDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/permissions/update:
+    post:
+      summary: "POST api/permissions/update"
+      operationId: "update"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/PermissionDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/permissions/delete:
+    post:
+      summary: "POST api/permissions/delete"
+      operationId: "delete"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/PermissionDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/permissions/get/{id}:
+    post:
+      summary: "POST api/permissions/get/{id}"
+      operationId: "get"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+  /api/permissions/getAll:
+    post:
+      summary: "POST api/permissions/getAll"
+      operationId: "getAll"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/PermissionDTO"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+                items:
+                  $ref: "#/components/schemas/Permission"
+  /api/product/get-all:
+    get:
+      summary: "GET api/product/get-all"
+      operationId: "getProductByCategory"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/ProductFilterRequest"
+        required: true
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Object"
+  /api/product/product-details/{id}:
+    get:
+      summary: "GET api/product/product-details/{id}"
+      operationId: "getProductDetailsById"
+      parameters:
+        - name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                $ref: "#/components/schemas/Product"
+  /api/product-image/get-products-images/{productId}:
+    get:
+      summary: "GET api/product-image/get-products-images/{productId}"
+      operationId: "getProductImagesByProductId"
+      parameters:
+        - name: "productId"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+            format: "uuid"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "array"
+                items:
+                  $ref: "#/components/schemas/ProductImage"
+  /api/faq/test:
+    get:
+      summary: "GET api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    put:
+      summary: "PUT api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    post:
+      summary: "POST api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    delete:
+      summary: "DELETE api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    options:
+      summary: "OPTIONS api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    head:
+      summary: "HEAD api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    patch:
+      summary: "PATCH api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+    trace:
+      summary: "TRACE api/faq/test"
+      operationId: "test"
+      responses:
+        "200":
+          description: "OK"
+          content:
+            '*/*':
+              schema:
+                type: "string"
+components:
+  schemas:
+    Void:
+      type: "object"
+      properties: { }
+    MainModuleDTO:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        description:
+          type: "string"
+    MainModule:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        description:
+          type: "string"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    JsonNode:
+      type: "object"
+      properties: { }
+    AdminPermissionDTO:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        adminId:
+          type: "string"
+          format: "uuid"
+        mainModuleId:
+          type: "string"
+          format: "uuid"
+        canCreate:
+          type: "boolean"
+        canUpdate:
+          type: "boolean"
+        canRead:
+          type: "boolean"
+        canDelete:
+          type: "boolean"
+        canGetAll:
+          type: "boolean"
+        otherPermission:
+          $ref: "#/components/schemas/JsonNode"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    Object:
+      type: "object"
+      properties: { }
+    RolePermissionDTO:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        roleId:
+          type: "string"
+          format: "uuid"
+        mainModuleId:
+          type: "string"
+          format: "uuid"
+        canCreate:
+          type: "boolean"
+        canUpdate:
+          type: "boolean"
+        canRead:
+          type: "boolean"
+        canDelete:
+          type: "boolean"
+        canGetAll:
+          type: "boolean"
+        otherPermission:
+          $ref: "#/components/schemas/JsonNode"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    AdminDTO:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        email:
+          type: "string"
+        mobile:
+          type: "string"
+        avatar:
+          type: "string"
+        roleId:
+          type: "string"
+          format: "uuid"
+        password:
+          type: "string"
+        status:
+          type: "string"
+          enum:
+            - "active"
+            - "inactive"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    LoginDTO:
+      type: "object"
+      properties:
+        mobile:
+          type: "string"
+        password:
+          type: "string"
+    Role:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        description:
+          type: "string"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    AdminPermission:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        admin:
+          $ref: "#/components/schemas/Admin"
+        mainModule:
+          $ref: "#/components/schemas/MainModule"
+        canCreate:
+          type: "boolean"
+        canUpdate:
+          type: "boolean"
+        canRead:
+          type: "boolean"
+        canDelete:
+          type: "boolean"
+        canGetAll:
+          type: "boolean"
+        otherPermission:
+          $ref: "#/components/schemas/JsonNode"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    Admin:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        email:
+          type: "string"
+        mobile:
+          type: "string"
+        avatar:
+          type: "string"
+        role:
+          $ref: "#/components/schemas/Role"
+        password:
+          type: "string"
+        status:
+          type: "string"
+          enum:
+            - "active"
+            - "inactive"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+        adminPermissions:
+          type: "array"
+          items:
+            $ref: "#/components/schemas/AdminPermission"
+    BigDecimal:
+      type: "object"
+      properties: { }
+    CustomerDTO:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        email:
+          type: "string"
+        mobile:
+          type: "string"
+        avatar:
+          type: "string"
+        otp:
+          type: "string"
+        otpVerified:
+          type: "boolean"
+        referralCode:
+          type: "string"
+        romoCashAvailable:
+          $ref: "#/components/schemas/BigDecimal"
+        romoCashUsed:
+          $ref: "#/components/schemas/BigDecimal"
+        status:
+          type: "string"
+          enum:
+            - "active"
+            - "inactive"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    Customer:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        email:
+          type: "string"
+        mobile:
+          type: "string"
+        avatar:
+          type: "string"
+        otp:
+          type: "string"
+        otpVerified:
+          type: "boolean"
+        referralCode:
+          type: "string"
+        romoCashAvailable:
+          $ref: "#/components/schemas/BigDecimal"
+        romoCashUsed:
+          $ref: "#/components/schemas/BigDecimal"
+        status:
+          type: "string"
+          enum:
+            - "active"
+            - "inactive"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    CustomerLoginDTO:
+      type: "object"
+      properties:
+        mobile:
+          type: "string"
+        otp:
+          type: "string"
+    RoleDTO:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        name:
+          type: "string"
+        description:
+          type: "string"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    PermissionDTO:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        moduleName:
+          type: "string"
+        canCreate:
+          type: "boolean"
+        canUpdate:
+          type: "boolean"
+        canRead:
+          type: "boolean"
+        canDelete:
+          type: "boolean"
+        canGetAll:
+          type: "boolean"
+        insertedAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    Permission:
+      type: "object"
+      properties:
+        id:
+          type: "string"
+          format: "uuid"
+        moduleName:
+          type: "string"
+        canCreate:
+          type: "boolean"
+        canUpdate:
+          type: "boolean"
+        canRead:
+          type: "boolean"
+        canDelete:
+          type: "boolean"
+        canGetAll:
+          type: "boolean"
+        insertedAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    ProductFilterRequest:
+      type: "object"
+      properties:
+        category:
+          type: "string"
+          format: "uuid"
+        generic:
+          type: "string"
+          format: "uuid"
+        manufacturer:
+          type: "string"
+          format: "uuid"
+        search:
+          type: "string"
+        minPrice:
+          $ref: "#/components/schemas/BigDecimal"
+        maxPrice:
+          $ref: "#/components/schemas/BigDecimal"
+        page:
+          type: "integer"
+          format: "int32"
+        size:
+          type: "integer"
+          format: "int32"
+        sortBy:
+          type: "string"
+        sort:
+          type: "string"
+    ProductUnit:
+      type: "object"
+      properties:
+        unitName:
+          type: "string"
+        id:
+          type: "string"
+          format: "uuid"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    MedicineGeneric:
+      type: "object"
+      properties:
+        name:
+          type: "string"
+        nameBn:
+          type: "string"
+        description:
+          type: "string"
+        descriptionBn:
+          type: "string"
+        safetyAdvice:
+          type: "string"
+        safetyAdviceBn:
+          type: "string"
+        genericOverview:
+          type: "string"
+        genericQuickTips:
+          type: "string"
+        status:
+          type: "string"
+          enum:
+            - "active"
+            - "inactive"
+        id:
+          type: "string"
+          format: "uuid"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    Manufacturer:
+      type: "object"
+      properties:
+        name:
+          type: "string"
+        nameBn:
+          type: "string"
+        description:
+          type: "string"
+        descriptionBn:
+          type: "string"
+        logo:
+          type: "string"
+        status:
+          type: "string"
+          enum:
+            - "active"
+            - "inactive"
+        id:
+          type: "string"
+          format: "uuid"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    Category:
+      type: "object"
+      properties:
+        name:
+          type: "string"
+        nameBn:
+          type: "string"
+        description:
+          type: "string"
+        descriptionBn:
+          type: "string"
+        icon:
+          type: "string"
+        thumbnail:
+          type: "string"
+        banner:
+          type: "string"
+        parent:
+          $ref: "#/components/schemas/Category"
+        status:
+          type: "string"
+        metaTitle:
+          type: "string"
+        metaDescription:
+          type: "string"
+        metaKeywords:
+          type: "string"
+        ogImg:
+          type: "string"
+        id:
+          type: "string"
+          format: "uuid"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    ProductImage:
+      type: "object"
+      properties:
+        product:
+          $ref: "#/components/schemas/Product"
+        image:
+          type: "string"
+        id:
+          type: "string"
+          format: "uuid"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
+    Product:
+      type: "object"
+      properties:
+        slug:
+          type: "string"
+        name:
+          type: "string"
+        nameBn:
+          type: "string"
+        strength:
+          type: "string"
+        strengthBn:
+          type: "string"
+        form:
+          type: "string"
+        formBn:
+          type: "string"
+        unit:
+          $ref: "#/components/schemas/ProductUnit"
+        inStock:
+          type: "integer"
+          format: "int32"
+        rxReq:
+          type: "boolean"
+        bottomNotes:
+          type: "string"
+        mrpPrice:
+          $ref: "#/components/schemas/BigDecimal"
+        romoPrice:
+          $ref: "#/components/schemas/BigDecimal"
+        initialSalesQty:
+          type: "integer"
+          format: "int32"
+        maxSalesQty:
+          type: "integer"
+          format: "int32"
+        generic:
+          $ref: "#/components/schemas/MedicineGeneric"
+        manufacturer:
+          $ref: "#/components/schemas/Manufacturer"
+        category:
+          $ref: "#/components/schemas/Category"
+        shortDescription:
+          type: "string"
+        shortDescriptionBn:
+          type: "string"
+        description:
+          type: "string"
+        descriptionBn:
+          type: "string"
+        addedBy:
+          $ref: "#/components/schemas/Admin"
+        updatedBy:
+          $ref: "#/components/schemas/Admin"
+        publishStatus:
+          type: "string"
+          enum:
+            - "published"
+            - "unpublished"
+        discountType:
+          type: "string"
+          enum:
+            - "percentage"
+            - "fixed_amount"
+        primaryImage:
+          type: "string"
+        viewCount:
+          type: "integer"
+          format: "int32"
+        metaTitle:
+          type: "string"
+        metaDescription:
+          type: "string"
+        metaKeywords:
+          type: "string"
+        opengraphImage:
+          type: "string"
+        productImages:
+          type: "array"
+          items:
+            $ref: "#/components/schemas/ProductImage"
+        id:
+          type: "string"
+          format: "uuid"
+        createdAt:
+          type: "string"
+          format: "date-time"
+        updatedAt:
+          type: "string"
+          format: "date-time"
