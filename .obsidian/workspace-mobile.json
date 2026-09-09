@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Note/DSA/Data Structure.md",
+                "file": "DSA/Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structure"
+              "title": "Algorithm"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Note/DSA/Data Structure.md",
+            "file": "DSA/Algorithm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,11 +176,11 @@
   },
   "active": "ae2667f3ed64e96a",
   "lastOpenFiles": [
-    "Obsidian Note/DSA/Algorithm.md",
     "Obsidian Note/DSA/Data Structure.md",
+    "Obsidian Note/DEVOPS/1 vagrant.md",
+    "Obsidian Note/DSA/Algorithm.md",
     "DSA/Algorithm.md",
     "DSA/Data Structure.md",
-    "Obsidian Note/DEVOPS/1 vagrant.md",
     "Web development learning/React learning/React JS.md",
     "Web development learning/React learning/Others.md",
     "Web development learning/React learning/JS topics for React.md",
